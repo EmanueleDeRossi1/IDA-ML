@@ -1,4 +1,4 @@
-# Stroke Prediction Using Machine Learning
+# Stroke Prediction Using Random Forests
 
 ## Project Overview
 This repository contains the implementation of a random forest model to predict stroke occurrences based on patient health data. The project uses a Kaggle dataset with various patient attributes (like `bmi` or `smoking status`). The main challenges were that some data was missing and that the dataset was imbalanced.
