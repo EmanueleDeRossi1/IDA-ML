@@ -29,9 +29,10 @@ This project was part of a [challenge](https://www.kaggle.com/competitions/ida-m
 
 
 ## Repository Structure
-
+```
 ├── data/
 │   └── train.csv                   
 ├── preprocessing.py                # Preprocessing functions for data cleaning and transformation
 ├── stroke_prediction.py            # Main script containing the implementation
-├── README.md                       
+├── README.md
+```                      
