@@ -5,7 +5,6 @@ This repository contains the implementation of a random forest model to predict 
 
 This project was part of a [challenge](https://www.kaggle.com/competitions/ida-ml-1-challenge-summer23/leaderboard), where my model achieved second place. It served as the final project for the course IDA-ML 1 (Intelligent Data Analysis and Machine Learning 1) at the University of Potsdam during the Summer Semester 2023.
 
----
 
 ## Key Features
 1. **Data Preprocessing**:
@@ -28,7 +27,6 @@ This project was part of a [challenge](https://www.kaggle.com/competitions/ida-m
    - The model achieved an **AUC ROC score of 0.85** on the evaluation set.
    - The **ROC Curve** and **Feature Importance** were visualized for better interpretability.
 
----
 
 ## Repository Structure
 
