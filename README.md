@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains the implementation of a random forest model to predict stroke occurrences based on patient health data. The project uses a Kaggle dataset with various patient attributes (like `bmi` or `smoking status`). The main challenges were that some data was missing and that the dataset was imbalanced.
 
-This project was part of a [challenge]{https://www.kaggle.com/competitions/ida-ml-1-challenge-summer23/leaderboard}, where my model achieved second place. It served as the final project for the course IDA-ML 1 (Intelligent Data Analysis and Machine Learning 1) at the University of Potsdam during the Summer Semester 2023.
+This project was part of a [challenge](https://www.kaggle.com/competitions/ida-ml-1-challenge-summer23/leaderboard), where my model achieved second place. It served as the final project for the course IDA-ML 1 (Intelligent Data Analysis and Machine Learning 1) at the University of Potsdam during the Summer Semester 2023.
 
 ---
 
